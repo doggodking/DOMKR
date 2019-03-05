@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+
+	<string name="achievement_completed">도전과제 완료: (1)</string>
+
+	<string name="achievement_launch_forth">출시</string>
+	<string name="achievement_launch_forth_description">게임을 시작하기</string>
+	
+	<string name="achievement_ancient_apprentice">고대 견습생</string>
+	<string name="achievement_ancient_apprentice_description">튜토리얼 완료</string>
+
+	<string name="achievement_ancient_miner">고대 광부</string>
+	<string name="achievement_ancient_miner_description">신석기 시대에 한번에 적어도 3개의 광산 채광</string>
+
+	<string name="achievement_massive_hunter">대형 사냥꾼</string>
+	<string name="achievement_massive_hunter_description">매머드를 사냥</string>
+	
+	<string name="achievement_the_deer_hunter">사슴 사냥꾼</string>
+	<string name="achievement_the_deer_hunter_description">한 게임에서 사슴 100마리 사냥</string>
+
+	<string name="achievement_iron_man">아이언맨</string>
+	<string name="achievement_iron_man_description">철기 시대 진입</string>
+
+	<string name="achievement_steel_master">마스터 오브 스틸</string>
+	<string name="achievement_steel_master_description">한 게임에서 강철검 10자루 제작</string>
+	
+	<string name="achievement_hardened_survivor">하드코어 생존자</string>
+	<string name="achievement_hardened_survivor_description">하드코어 모드에서 5 마일스톤을 달성</string>
+
+	<string name="achievement_completion">완성</string>
+	<string name="achievement_completion_description">모든 마일스톤을 달성</string>	
+
+	<string name="achievement_ultimate_completion">궁극의 완성</string>
+	<string name="achievement_ultimate_completion_description">하드코어 모드에서 모든 마일스톤을 달성</string>
+
+	<string name="achievement_settlement1">대륙 정착지</string>
+	<string name="achievement_settlement1_description">'대륙의 새벽' 시나리오에서 인구 50명 달성</string>
+
+	<string name="achievement_settlement2">북쪽 정착지</string>
+	<string name="achievement_settlement2_description">'노스랜드' 시나리오에서 인구 50명 달성</string>
+
+	<string name="achievement_settlement3">전사 정착지</string>
+	<string name="achievement_settlement3_description">'고대의 전사' 시나리오에서 인구 50명 달성</string>
+
+	<string name="achievement_siege1">공성전</string>
+	<string name="achievement_siege1_description">'고대의 전사' 시나리오에서 청동기 시대 진입</string>
+
+	<string name="achievement_siege2">공방전</string>
+	<string name="achievement_siege2_description">'고대의 전사' 시나리오에서 강철 제조 기술 해제</string>
+
+	<string name="achievement_time">급격한 진화</string>
+	<string name="achievement_time_description">게임 시간 5시간 내 테크트리 모든 기술 연구</string>
+
+	<string name="achievement_overpopulation">인구 과잉</string>
+	<string name="achievement_overpopulation_description">정착지 인구 200명 도달</string>
+
+	<string name="achievement_paleolithic_overpopulation">구석기 시대 인구 과잉</string>
+	<string name="achievement_paleolithic_overpopulation_description">구석기 시대에서 정착지 인구 100명 도달</string>
+
+
+</strings>
