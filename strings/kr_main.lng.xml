@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <strings>
 	<!-- This is the name of the language as it will appear on the language select screen -->
 	<string name="language_name">한국어</string>
@@ -29,7 +29,7 @@
 	
 	<!-- Tech confirm texts -->
 	<string name="confirm_research_copper_smelting">
-당신은 (b)금속 시대(/b)에 들어서고 있습니다.
+당신은 (b)금속기 시대(/b)에 들어서고 있습니다.
 
 당신의 (b)정착지(/b)를 (b)요새화(/b)하고 침입자로부터 방어할 수 있도록 충분한 인력과 무기를 보유하는 것이 좋습니다.
 
@@ -57,8 +57,8 @@
 
 	<!-- Key Bindings screen -->
 	<string name="binding_title_action">액션</string>
-	<string name="binding_title_control">제어</string>
-	<string name="binding_title_alternative">대안</string>
+	<string name="binding_title_control">제어 키</string>
+	<string name="binding_title_alternative">보조 키</string>
 	<string name="binding_press_key">유효한 키보드 키를 누르세요.</string>
 	<string name="bindings_reset">초기 설정으로 되돌린다.</string>
 
@@ -78,7 +78,7 @@
 	<string name="game_mode_hardcore_description">
 - 한번의 게임 저장
 - 게임 일시정지 불가능
-- 다른 부족들이 그들의 속도로 발전
+- 다른 부족들이 그들의 페이스로 발전
 - 많은 양의 침입자
 - 정기적인 동물 침범
 	</string>
@@ -145,19 +145,19 @@
 	<string name="era_iron_age">철기 시대</string>
 	
 	<string name="super_era_stone_age">석기 시대</string>
-	<string name="super_era_metal_age">금속 시대</string>	
+	<string name="super_era_metal_age">금속기 시대</string>	
 
 	<!-- Knowledge -->
 	<string name="knowledge">지식</string>
 	<string name="knowledge_earned">지식 +(1)</string>
 	<string name="knowledge_population">인구 도달: (1)</string>
 	<string name="knowledge_animal_population">동물 수 도달: (1)</string>
-	<string name="knowledge_first_structure_built">첫번째 구조물: (1)</string>
+	<string name="knowledge_first_structure_built">첫번째 시설물: (1)</string>
 	<string name="knowledge_first_raider_killed">첫번째 침입자가 죽음</string>
 	<string name="knowledge_first_resource_produced">첫번째로 생산한 자원: (1)</string>
 	<string name="knowledge_first_animal_hunted">첫번째로 사냥된 동물: (1)</string>
 	<string name="knowledge_first_resource_acquired">첫번째로 얻은 자원: (1)</string>
-	<string name="knowledge_structure_built">건설한 구조물: (1) x(2)</string>
+	<string name="knowledge_structure_built">건설한 시설물: (1) x(2)</string>
 	<string name="knowledge_raider_killed">침입자들을 죽임 x(1)</string>
 	<string name="knowledge_resources_produced">생산한: (1) x(2)</string>
 	<string name="knowledge_animals_hunted">사냥한: (1) x(2)</string>
@@ -173,7 +173,7 @@
 	<string name="new_save">새로운 저장</string>
 	<string name="main">메인</string>
 	<string name="welfare">행복</string>
-	<string name="prestige">명망</string>
+	<string name="prestige">명성</string>
 	<string name="build">건설</string>
 	<string name="plant">심기</string>
 	<string name="place_work_area">작업 영역 설정</string>
@@ -211,7 +211,7 @@
 	<string name="progress_general">일반</string>
 	<string name="progress_raiders_killed">죽인 침입자</string>
 	<string name="progress_hunted_animals">사냥한 동물</string>
-	<string name="progress_built_structures">건설한 구조물</string>
+	<string name="progress_built_structures">건설한 시설물</string>
 	<string name="progress_resources_acquired">얻은 자원</string>
 	
 	<!-- Milestones-->
@@ -403,8 +403,8 @@
 	<string name="season_winter">겨울</string>
 	
 	<!-- Activity -->
-	<string name="activity_category_unproductive">생산성 없는</string>
-	<string name="activity_category_subsisting">유효 중</string>
+	<string name="activity_category_unproductive">생산성 없음</string>
+	<string name="activity_category_subsisting">활동 가능</string>
 	<string name="activity_category_resources">자원 운반 중</string>
 	<string name="activity_category_tasks">작업 수행 중</string>
 	
@@ -417,7 +417,7 @@
 	<string name="task_slaughter">도살하기</string>
 	<string name="task_milk">착유하기</string>
 	<string name="task_collect">수집하기</string>
-	<string name="task_gather_detail">막대기를 모으기</string>
+	<string name="task_gather_detail">나뭇가지를 모으기</string>
 	<string name="task_gather_prop">자원을 모으기</string>
 	<string name="task_harvest">수확하기</string>
 	<string name="task_extract_mud">진흙을 채취하기</string>
@@ -482,8 +482,8 @@
 	<string name="disabled_reason_not_young">동물이 젊지 않습니다.</string>
 	<string name="disabled_reason_not_grown">나무가 완전히 자라지 않았습니다.</string>
 	<string name="disabled_reason_tree_busy">다른 사람이 저 나무에서 일하고 있습니다.</string>	
-	<string name="disabled_reason_not_damaged">이 구조물은 피해를 입지 않았습니다.</string>
-	<string name="disabled_reason_not_operational">구조물은 작동중이 아닙니다.</string>
+	<string name="disabled_reason_not_damaged">이 시설물은 피해를 입지 않았습니다.</string>
+	<string name="disabled_reason_not_operational">시설물은 작동중이 아닙니다.</string>
 
 	<string name="error_location_not_reachable">위치에 도달할 수 없습니다.</string>
 	
@@ -511,7 +511,7 @@
 
 	<!-- Work areas -->
 	<string name="work_area">작업 영역</string>
-	<string name="work_area_gather_sticks">막대기 수집</string>
+	<string name="work_area_gather_sticks">나뭇가지 수집</string>
 	<string name="work_area_obtain_flint">부싯돌 수집</string>
 	<string name="work_area_cut_down">벌목</string>
 	<string name="work_area_fish">낚시</string>
@@ -569,26 +569,26 @@
 	<string name="arrow_left">←</string>
 	<string name="arrow_up">↑</string>
 	<string name="arrow_down">↓</string>
-	<string name="keypad">Keypad</string>
-	<string name="keypad_enter">Keypad Enter</string>
-	<string name="keypad_minus">Keypad -</string>
-	<string name="keypad_plus">Keypad +</string>
+	<string name="keypad">키패드</string>
+	<string name="keypad_enter">키패드 엔터</string>
+	<string name="keypad_minus">키패드 -</string>
+	<string name="keypad_plus">키패드 +</string>
 	<string name="escape">Esc</string>
 	<string name="delete">Del</string>
-	<string name="backspace">Backspace</string>
-	<string name="space">Space</string>
-	<string name="return">Return</string>
+	<string name="backspace">backspace</string>
+	<string name="space">space</string>
+	<string name="return">엔터</string>
 
 	<!-- Tooltips -->
 	<string name="tooltip_population">인구: (1)(n)수용량: (2)</string>
 	<string name="tooltip_fireplace">여기서 (b)날고기(/b)를 요리해서 먹을 수 있고, (b)열(/b)도 제공합니다.</string>
 	<string name="tooltip_status_prestige">명성: (1)</string>
 	<string name="tooltip_status_morale">사기 회복: (1)</string>
-	<string name="tooltip_status_capacity">이 구조물은 (1)명을 수용할 수 있습니다.</string>
+	<string name="tooltip_status_capacity">이 시설물은 (1)명을 수용할 수 있습니다.</string>
 	<string name="tooltip_low_stats">이 인간은 능력이 낮아, 감소된 효율로 작업을 수행합니다.</string>
-	<string name="tooltip_durability">이 구조물에 저장된 자원은 (1)배 더 오래 지속됩니다.</string>
+	<string name="tooltip_durability">이 시설물에 저장된 자원은 (1)배 더 오래 지속됩니다.</string>
 	<string name="tooltip_decay_time">자원은 (1)년동안 지속됩니다.</string>
-	<string name="tooltip_condition_decay_time">구조물은 (1)년동안 지속됩니다.</string>
+	<string name="tooltip_condition_decay_time">시설물은 (1)년동안 지속됩니다.</string>
 	<string name="tooltip_use_count">자원은 (1)번 사용할 수 있습니다.</string>
 	<string name="tooltip_continuous_production">연속 생산</string>
 	<string name="tooltip_craft">왼쪽 클릭으로 상품 한개만 생산하십시오.(n)(b)오른쪽 클릭(/b)으로 (b)연속 생산(/b)으로 전환하십시오.</string>
@@ -629,7 +629,7 @@
 	<string name="tooltip_plant_disease">이 식물은 질병의 영향을 받아, 수확할 수 없습니다.</string>
 	<string name="tooltip_infection">감염의 영향을 받았습니다.</string>
 	<string name="tooltip_multiselected_entity">클릭하여 다른 항목 선택을 취소하십시오.(n)선택을 취소하려면 Shift+click</string>
-	<string name="tooltip_no_structures">이 형태의 구조물은 아직 지을 수 없습니다.</string>
+	<string name="tooltip_no_structures">이 형태의 시설물은 아직 지을 수 없습니다.</string>
 	<string name="tooltip_max_performers">원하는 작업에 할당된 인원 수: (1)</string>
 	<string name="tooltip_techs_unlockable">새로운 기술이 해제됨</string>
 	<string name="tooltip_total_population">총인구 수</string>
