@@ -12,7 +12,7 @@
 	<string name="loading_hints">힌트</string>
 	<string name="help_upgrades">업그레이드</string>
 	<string name="defense">방어</string>
-	<string name="help_stats">통계</string>
+	<string name="help_stats">상태</string>
 	<string name="help_cost">비용</string>
 	<string name="help_main">주요 주제</string>
 	<string name="help_categories">카테고리</string>
@@ -20,38 +20,38 @@
 	<string name="help_related_resources"> 자원 관련</string>
 	<string name="help_production">생산 관련</string>
 	<string name="help_byproducts">가공된 자원</string>
-	<string name="help_domestic_variant">국내 변형</string>
+	<string name="help_domestic_variant">양식 변종</string>
 	<string name="help_wild_variant">야생 변종</string>
 	<string name="help_domestication_tech">사육 기술</string>
-	<string name="help_crafted_from">제작된</string>
+	<string name="help_crafted_from">로부터 제작된</string>
 	<string name="help_built_using">사용해 지어진</string>	
-	<string name="help_produced_from">생성된</string>
+	<string name="help_produced_from">으로부터 생성된</string>
 	<string name="help_created_entities">제작하기 위해 사용된</string>
 	<string name="help_produced_resources">생산된 자원</string>
 	<string name="help_input_resources">사용된 자원</string>
 
-	<string name="hint_0">Gather (b)Berries(/b) and (b)Fruit(/b) during summer and save longer lasting resources such as (b)Cured Meat(/b), (b)Dry Fish(/b), and (b)Grain(/b) for winter.</string>
-	<string name="hint_1">(b)Avoid(/b) targeting (b)healthy adult(/b) animals when hunting in the (b)early game(/b), as they are hard to kill and might fight back.</string>
-	<string name="hint_2">Use (b)work areas(/b) in conjunction with (b)resource limits(/b) to automate your settlement as much as possible.</string>
-	<string name="hint_3">Don't (b)expand(/b) too fast if you don't have the (b)infrastructure(/b) to feed your people.</string>
-	<string name="hint_4">(b)Domestic animals(/b) need to be (b)fed(/b) and given (b)water(/b) in (b)winter(/b). Avoid having too many if you can not maintain them.</string>
-	<string name="hint_5">In (b)paleolithic(/b) hunter-gatherer societies, (b)conflict(/b) was (b)rare(/b), as the human populations were sparse. From the (b)neolithic onward(/b), though, you really need to be prepared for (b)battle(/b).</string>
-	<string name="hint_6">It's (b)hard(/b) to achieve (b)large populations(/b) in the (b)early(/b) eras. Only with farming and other technologies will you be able to sustain a large settlement.</string>
-	<string name="hint_7">Make sure that when (b)winter(/b) comes you have plenty of (b)non perishable food(/b) in storage, otherwise starvation will be a serious problem.</string>
-	<string name="hint_8">Getting someone to go to rivers, lakes, or wells to (b)collect and store water(/b) is way more (b)efficient(/b) than having your people go drink away from the settlement every time.</string>
-	<string name="hint_9">You can (b)customize(/b) the panels at the top of the screen by clicking on the (b)+(/b) buttons next to them.</string>	
-	<string name="hint_10">(b)Pivot the camera(/b) around a point by pressing both (b)pan(/b) and (b)rotate(/b) keys at the same time.</string>
-	<string name="hint_11">In (b)standard(/b) difficulty, raider (b)technology(/b) will (b)match(/b) your current era, so be careful before advancing too quickly.</string>
-	<string name="hint_12">In (b)hardcore(/b) difficulty, attackers will advance their (b)technology(/b) at their (b)own pace(/b), so you should not take too long to progress through the eras.</string>
-	<string name="hint_13">You can tell your people to go (b)rest(/b) or (b)shelter(/b) by selecting them and (b)right clicking(/b) on a (b)structure(/b).</string>
-	<string name="hint_14">When people get (b)hurt(/b) there is a chance they might catch an (b)infection(/b), which could be fatal.</string>
-	<string name="hint_15">You can give (b)commands(/b) to your people by (b)selecting(/b) them and (b)right clicking(/b) on the terrain or on an object.</string>
-	<string name="hint_16">You can (b)command(/b) your people to (b)sprint(/b) to a location by selecting them and (b)double right clicking(/b) on the terrain.</string>
-	<string name="hint_17">You can (b)quicksave(/b) the game by pressing (b)F9(/b).</string>
-	<string name="hint_18">(b)Double click(/b) on a plant, being or building to select all similar (b)nearby entities(/b).</string>
-	<string name="hint_19">You can press the (camera_center_town_key) key to move the camera back to town.</string>
-	<string name="hint_20">You can hold the (hunter_selection_key) and (fighter_selection_key) keys while dragging the mouse to select people with (b)hunting(/b) or (b)fighting(/b) tools only.</string>
-	<string name="hint_21">You can use (b)primal vision(/b) mode to highlight (b)work areas(/b).</string>
+	<string name="hint_0">여름에는 (b)열매(/b)와 (b)과일(/b)을 모으고 겨울에는 (b)절인 고기(/b), (b)건조 생선(/b) 그리고 (b)곡물(/b)과 같이 오래 보관되는 자원을 모으십시오.</string>
+	<string name="hint_1">(b)게임 초기(/b)에 (b)건강한 성체(/b) 동물들을 사냥하는 것은 피하십시오. 그들은 (b)죽이기 어렵고 반격(/b)도 합니다.</string>
+	<string name="hint_2">(b)작업 영역(/b)과 (b)자원 제한(/b)을 함께 사용하여 가능한 정착지를 자동화하십시오.</string>
+	<string name="hint_3">당신이 사람들을 먹여 살릴 (b)사회 기반 시설(/b)이 없다면 너무 빨리 (b)확장(/b)하지 마십시오.</string>
+	<string name="hint_4">(b)겨울(/b)에는 (b)가축(/b)에게 (b)먹이(/b)와 (b)물(/b)을 줘야합니다. 당신이 그들을 유지할 수 없다면 너무 많이 사육하는 것을 피하십시오.</string>
+	<string name="hint_5">(b)구석기 시대(/b)는 사냥-채집 시대로, 인간의 수가 적어 (b)분쟁(/b)이 (b)드물었습니다(/b). 하지만 (b)신석기 시대(/b)부터, 당신은 (b)전투(/b)에 대비하여야 합니다.</string>
+	<string name="hint_6">(b)초기 시대(/b)에 (b)많은 인구(/b)를 확보하는 것은 어렵습니다. 오직 (b)농사나 다른 기술들(/b)이 큰 정착지를 (b)유지(/b)할 수 있습니다.</string>
+	<string name="hint_7">(b)겨울(/b)이 왔을 때 당신은 창고에 (b)부패하지 않는 음식(/b)을 많이 모아둬야합니다. 그렇지 않으면 심각한 기아 문제를 겪을 것입니다.</string>
+	<string name="hint_8">강이나 호수에 보내거나, 우물에 (b)물을 기르고 보관하는 것(/b)은 매번 정착지에서 사람들이 술을 마시는 것보다 더 (b)효율적(/b) 입니다.</string>
+	<string name="hint_9">화면 상단에 (b)+(/b) 버튼을 눌러 패널을 (b)사용자 지정(/b) 할 수 있습니다.</string>	
+	<string name="hint_10">(b)초점(/b)키와 (b)회전(/b)키를 동시에 눌러 점 주위로 (b)카메라를 회전시키십시오(/b).</string>
+	<string name="hint_11">(b)일반(/b) 난이도에서, 침입자 (b)기술(/b)은 당신의 현재 시대와 (b)일치(/b)하기 때문에, 빨리 성장하기 전에 조심하십시오.</string>
+	<string name="hint_12">(b)하드코어(/b) 난이도에서, 공격자는 (b)자신의 페이스(/b)로 (b)기술(/b)을 발전시키기 때문에, 시대를 넘어가는데 너무 오래 걸려서는 안됩니다.</string>
+	<string name="hint_13">당신은 (b)시설물(/b)을 (b)오른쪽 클릭(/b)해서 사람들에게 (b)쉬거나(/b) (b)대피시킬 수(/b) 있습니다.</string>
+	<string name="hint_14">사람들이 (b)다쳤을 때(/b), 치명적인 (b)감염(/b)에 걸릴 수 있습니다.</string>
+	<string name="hint_15">당신은 (b)지형(/b)이나 (b)사물(/b)을 (b)오른쪽 클릭(/b)해서 사람들에게 (b)지시(/b)를 내릴 수 있습니다.</string>
+	<string name="hint_16">사람들을 선택하고 지형을 (b)오른쪽 더블클릭(/b)하면 선택된 곳으로 전력질주 합니다.</string>
+	<string name="hint_17">(b)F9(/b)를 눌러 (b)빠른 저장(/b)을 할 수 있습니다.</string>
+	<string name="hint_18">주변의 (b)비슷한 개체(/b)를 모두 선택하려면 식물이나 건물을 (b)더블클릭(/b) 하십시오.</string>
+	<string name="hint_19">마을로 카메라를 되돌리려면 (camera_center_town_key) 키를 누르십시오.</string>
+	<string name="hint_20">(hunter_selection_key)나 (fighter_selection_key) 키를 누르면서 마우스로 끌면 (b)사냥(/b)이나 (b)싸움(/b)도구를 든 사람만 선택할 수 있습니다.</string>
+	<string name="hint_21">(b)원시 비전(/b)을 (b)작업 영역(/b)을 찾는데 쓸 수 있습니다.</string>
 
 
 	<string name="help_main_title">Dawn of Man</string>
@@ -62,7 +62,7 @@ You will have to (b)hunt(/b), (b)gather(/b), (b)craft tools(/b), (b)fight(/b), r
 
   <!-- === Topics === -->
 
-	<string name="help_hunting_title">Hunting</string>
+	<string name="help_hunting_title">사냥</string>
 	<string name="help_hunting_description">
 Using specialized tools, your people can hunt animals in order to obtain (b)food(/b) and (b)resources(/b) from them.
 To start a hunt, select an animal in the environment and then click on the (b)hunt button(/b). Depending on the difficulty of the prey, and the availability of tools, a certain number of people will go after the animal.
@@ -70,7 +70,7 @@ Animals will react in different ways when being hunted: some will try to (b)esca
 You can control the hunt in more detail by selecting one or more adults and right clicking on a target animal.
 	</string>	
 	
-	<string name="help_farming_title">Farming</string>
+	<string name="help_farming_title">농사</string>
 	<string name="help_farming_description">
 Farming allows you to automate the production of (b)food(/b), and sustain more people in your settlement.
 You can plant a variety of (b)crops(/b), then harvest and process them to feed your people. Crops are usually planted in winter or spring and collected in summer or autumn.
@@ -79,7 +79,7 @@ In order to maximize the efficiency of the harvest, make sure you have enough (b
 Of all crops, (b)cereals(/b) are probably the most important, they are not only a source of (b)Grain(/b) but also (b)Straw(/b), which is a vital resource both as a building material and also as animal food.
 	</string>
 			
-	<string name="help_defense_title">Defense</string>
+	<string name="help_defense_title">방어</string>
 	<string name="help_defense_description">
 One of the keys to survival is to defend your settlement against hostile (b)animals(/b) and (b)raiders(/b).
 During the (b)stone age(/b), the main threats are wild animals and sporadic bands of raiders. Make sure you have enough weapons and people to defend the settlement against them.
@@ -87,50 +87,50 @@ In the (b)metal age(/b) things will get more serious, and large bands of attacke
 At any time you can trigger an (b)alert(/b) in the defense panel, your people will then run back the settlement, get the best weapons available and man the towers.
 	</string>	
 	
-	<string name="help_human_status_title">Human Status</string>
+	<string name="help_human_status_title">인간 상태</string>
 	<string name="help_human_status_description">
 Humans have (b)health(/b), (b)nutrition(/b), (b)hydration(/b), (b)rest(/b), (b)temperature(/b), (b)stamina(/b) and (b)morale(/b) indicators that reflect their current status.
 When an status indicator is low, a (b)warning sign(/b) will appear on top of that person, highlighting what's wrong with them.
 Having sub-optimal status will make your people less effective, and eventually cause them to die. You need to monitor your people at all times and make sure their needs are fulfilled.
 	</string>	
 	
-	<string name="help_health_title">Health</string>	
+	<string name="help_health_title">건강</string>	
 	<string name="help_health_description">
 This is a measure of the physical health of a person. If it goes too low, the human will die.
 (b)Health(/b) slowly recovers by itself in normal circumstances, unless the other status indicators are low or the human is affected by a (b)condition(/b).
     </string>	
 	
-	<string name="help_nutrition_title">Nutrition</string>	
+	<string name="help_nutrition_title">영양분</string>	
 	<string name="help_nutrition_description">
 This is a measure of how well fed a person is. If it goes too low, (b)health(/b) will start to drop, and the human will eventually die.
 (b)Nutrition(/b) can be recovered by eating food, which can be obtained from a variety of sources.
     </string>		
 	
-	<string name="help_hydration_title">Hydration</string>	
+	<string name="help_hydration_title">수분</string>	
 	<string name="help_hydration_description">
 This is a measure of how thirsty a person is. If it goes too low, (b)health(/b) will start to drop, and the human will eventually die.
 (b)Hydration(/b) can be recovered by drinking from a (b)river(/b), (b)lake(/b), (b)well(/b), or (b)stored water(/b).
     </string>	
 	
-	<string name="help_rest_title">Rest</string>	
+	<string name="help_rest_title">피로</string>	
 	<string name="help_rest_description">
 This is a measure how tired a person is. If it goes low, humans will be less effective at work.
 (b)Rest(/b) can be recovered by sleeping in a (b)Tent(/b), (b)Hut(/b) or (b)Roundhouse(/b).
     </string>
 	
-	<string name="help_temperature_title">Temperature</string>	
+	<string name="help_temperature_title">체온</string>	
 	<string name="help_temperature_description">
 This is a measure of the body temperature of a person. If it goes too low, (b)health(/b) will start to drop, and the human will eventually die.
 To warm themselves up, humans can wear thicker clothing or shelter inside a (b)Tent(/b), (b)Hut(/b) or (b)Roundhouse(/b).
     </string>		
 	
-	<string name="help_stamina_title">Stamina</string>	
+	<string name="help_stamina_title">기력</string>	
 	<string name="help_stamina_description">
 This is a measure of how out of breath a person is. if it goes too low, the human won't be able to run. It is an important factor in combat or when hunting.
 (b)Stamina(/b) recovers automatically when idle.
     </string>		
 	
-	<string name="help_morale_title">Morale</string>	
+	<string name="help_morale_title">사기</string>	
 	<string name="help_morale_description">
 This is a measure of the psychological health of a person. If morale goes low, they will be (b)less effective at work(/b). Keeping morale high is therefore critical to the success of your settlement.
 Morale can go down due to (b)hunger(/b), (b)deaths(/b), or performing (b)tedious tasks(/b), such as farming or carrying heavy loads.
@@ -143,7 +143,7 @@ Later in the game you can also produce (b)Beer(/b), which recovers a lot of mora
   <string name="help_knowledge_description">
 당신은 게임에서 다양한 목표를 달성함으로써 (b)지식 포인트(/b)를 얻을 수 있습니다:
 • 더 많은 인구수 도달
-• 여러 종류의 구조물 건설
+• 여러 종류의 시설물 건설
 • 여러 종류의 동물 사냥
 • 다양한 자원 획득
 • 침입자 살해
@@ -152,14 +152,14 @@ Later in the game you can also produce (b)Beer(/b), which recovers a lot of mora
 이 포인트들은 당신이 새로운 (b)기술(/b)을 해제해, 당신의 정착지를 성장시키고, 더 많은 사람들을 살아가게 할 수 있습니다.
   </string>
 	
-	<string name="help_crafting_title">Crafting</string>
+	<string name="help_crafting_title">제작</string>
   <string name="help_crafting_description">
 Your people can craft a variety of resources in the settlement's structures.
 To craft a resource, select a (b)crafting structure(/b) and click on a recipe. If the resources are available, one of your people will craft it.
 You can also right click on a recipe to toggle (b)continuous production(/b). When enabled your people will automatically produce the resource until the (b)resource limit(/b) is reached.
   </string>
 	
-	<string name="help_expanding_title">Expanding</string>
+	<string name="help_expanding_title">확장</string>
   <string name="help_expanding_description">
 If your (b)welfare(/b) is high enough and you have enough capacity in your settlement, new people will come and join it, and your women will give (b)birth(/b) to new children.
 You can increase your housing capacity by building (b)Tents(/b), (b)Huts(/b) or (b)Roundhouses(/b).
@@ -167,7 +167,7 @@ The frequency of migrant arrivals depends on your (b)welfare(/b) and (b)prestige
 The fertility of your people also depends on your (b)welfare(/b) level.
   </string>	
   
-  <string name="help_resource_limits_title">Resource Limits</string>
+  <string name="help_resource_limits_title">자원 제한</string>
 	<string name="help_resource_limits_description">
 Resource Limits are a powerful way to automate work in your settlement.
 You can set a (b)resource limit(/b), then mark a recipe for continuous production or place a work area: your people will keep on collecting or producing that resource until the limit is reached. 
@@ -179,7 +179,7 @@ You can set any limit to 3 types of values:
 Note that limits only affect work areas and automatic crafting, if you explicitly give an order, the limit is ignored.
 	</string>
 	
-  <string name="help_resource_decay_title">Resource Decay</string>
+  <string name="help_resource_decay_title">자원 부패</string>
   <string name="help_resource_decay_description">
 Most resources and tools (b)decay(/b) over time, decay is also accelerated when tools are used.
 Resources stored inside a structure, decay slowly. This is especially important for food, as it can mean the difference between having a good winter or massive starvation.
@@ -188,7 +188,7 @@ Some foods (b)last a lot longer(/b) like: Grain, Cured Meat and Dry Fish.
 Your people will try to eat the food that is going to decay sooner in order to preserve more durable food for later.
 	</string>	
 	
-  <string name="help_workload_title">Workload</string>
+  <string name="help_workload_title">작업량</string>
   <string name="help_workload_description">
 The (b)workload(/b) of your settlement is the ratio between the amount of tasks your people are trying to do, and the total amount of people.
 If you ask your people to do too many things at once, they will be overworked, and will have trouble prioritizing the right tasks.
@@ -196,7 +196,7 @@ It is your job do make sure the amount of work to do is reasonable and proportio
 You can use the (b)tasks(/b) and (b)activity panels(/b) to see what your people are up to and how many of them are available to work.
 	</string>
 	
-  <string name="help_human_roles_title">Human Roles</string>
+  <string name="help_human_roles_title">인간 역할</string>
   <string name="help_human_roles_description">
 Depending on the age of your population they are able to perform different tasks:
 (b)Children(/b). They can carry light resources around, one at a time, and do basic tasks that don't involve the usage of tools.
@@ -204,14 +204,14 @@ Depending on the age of your population they are able to perform different tasks
 (b)Elderly(/b). They can perform the same tasks as adults, but have less health and can carry less resources.
 	</string>
   
-  <string name="help_work_area_title">Work Areas</string>
+  <string name="help_work_area_title">작업 영역</string>
   <string name="help_work_area_description">
 Setting (b)work areas(/b) allows you to automate many of the (b)collection(/b) and (b)mining(/b) tasks in your settlement.
 After you place an area for a given resource, people will keep collecting the resource within that area until the (b)resource limit(/b) is reached.
 By default only one person at a time will work in a particular area, but you can increase their number in the selection panel.
   </string>
 	
-  <string name="help_foods_title">Foods</string>
+  <string name="help_foods_title">음식</string>
   <string name="help_foods_description">
 There are are different (b)types of food(/b) that your people can consume, it is important to understand the differences between them.
 (b)Raw Fish(/b). Available all year long, every river or lake bank contains a certain amount of fish, once you exhaust it you need to wait for it to replenish. You can use the (b)Food Dryer(/b) to convert (b)Raw Fish(/b) to (b)Dry Fish(/b), which lasts a lot longer.
@@ -222,7 +222,7 @@ There are are different (b)types of food(/b) that your people can consume, it is
 People will try to eat the foods that are about to perish first.
 	</string>
 	
-  <string name="help_welfare_title">Welfare</string>
+  <string name="help_welfare_title">행복</string>
   <string name="help_welfare_description">
 A measure of how well your settlement is doing.
 Depends on your people's (b)stats(/b), (b)clothing(/b) and also on the (b)food surplus(/b).
@@ -230,7 +230,7 @@ If welfare is high (b)migrants(/b) will come to your settlement, the higher it i
 Welfare also affects the (b)birth rate(/b) in your settlement.
 	</string>	
 	
-  <string name="help_prestige_title">Prestige</string>
+  <string name="help_prestige_title">명성</string>
   <string name="help_prestige_description">
 A measure of how well known your settlement is.
 Depends on your (b)population(/b), (b)buildings(/b) and (b)technology(/b).
@@ -239,7 +239,7 @@ A good way to increase your settlement's (b)prestige(/b) is by constructing (b)m
 	</string>		
 
 	<!-- Conditions here refers to diseases or infections-->
-  <string name="help_conditions_title">Conditions</string>
+  <string name="help_conditions_title">상태</string>
   <string name="help_conditions_description">
 Humans can be affected by conditions such as (b)diseases(/b) or (b)infections(/b).
 These are triggered from (b)going hungry(/b) repeatedly, or (b)sustaining injuries(/b).
@@ -247,36 +247,36 @@ When a person has a condition it's health will decrease for a given amount of ti
 Survival chances are partly random and party based on how healthy the individual is.
 	</string>
 	
-	<string name="help_controls_title">Controls</string>	
+	<string name="help_controls_title">제어</string>	
 	<string name="help_controls_description">
-(b)CAMERA(/b)
+(b)카메라(/b)
 
-Move: (camera_move_keys)
-Rotate: (camera_rotate_keys)
-Zoom: (b)Mouse Wheel(/b)
-
-
-(b)SELECTION(/b)
-
-Select entity: (b)Left mouse click(/b)
-Select nearby similar entities: (b)Left mouse double click(/b)
-Add/remove to/from selection:(b) Shift + Left mouse click(/b)
-
-Select multiple entities: (b)Drag left mouse(/b)
-Select hunters only: (b)Drag left mouse(/b) while holding the (hunter_selection_key) key
-Select fighters only: (b)Drag left mouse(/b) while holding the (fighter_selection_key) key
-
-Give command: (b)Right mouse click(/b)
-Give command to sprint: (b)Right double click(/b)
+이동: (camera_move_keys)
+회전: (camera_rotate_keys)
+확대/축소: (b)마우스 휠(/b)
 
 
-(b)MANAGEMENT(/b)
+(b)선택(/b)
 
-Quick Save: (b)F9(/b)
-Main Menu: (b)F10(/b)
+개체 선택: (b)왼쪽 클릭(/b)
+근처 유사한 개체 선택: (b)왼쪽 더블클릭(/b)
+선택으로부터 추가/제거:(b) Shift + 왼쪽 클릭(/b)
+
+다중 개체 선택: (b)왼쪽으로 끌기(/b)
+사냥꾼만 선택: (hunter_selection_key) 키를 누르면서 (b)왼쪽으로 끌기(/b)
+싸움꾼만 선택: (fighter_selection_key) 키를 누르면서 (b)왼쪽으로 끌기(/b)
+
+명령 하기: (b)오른쪽 클릭(/b)
+전력질주 명령 하기: (b)오른쪽 더블클릭(/b)
 
 
-(b)KEY BINDINGS(/b)
+(b)관리(/b)
+
+빠른 저장: (b)F9(/b)
+메인 메뉴: (b)F10(/b)
+
+
+(b)키 설정(/b)
 
 	</string>
 	
@@ -380,43 +380,43 @@ It needs periodic maintenance.
 	
 	<!-- === Storage === -->
 	
-	<string name="storage_tent_short_description">A basic storage structure</string>
+	<string name="storage_tent_short_description">기본 창고 시설물.</string>
 	<string name="storage_tent_help_description">
 A large tent built for storing and (b)preserving resources(/b) for longer.
 It deteriorates quickly and needs periodic maintenance.
 It can be built from the (b)Paleolithic(/b).
 	</string>
 
-	<string name="wood_pile_short_description">A place to store Sticks and Logs</string>
+	<string name="wood_pile_short_description">나뭇가지와 통나무를 보관하는 장소.</string>
 	<string name="wood_pile_help_description">
 A place to stack (b)Sticks(/b) or (b)Logs(/b), rather than using residence or other storage structures, which wastes valuable space.
 	</string>
 	
-	<string name="haystack_short_description">A place to store Straw</string>
+	<string name="haystack_short_description">밀짚을 보관하는 장소.</string>
 	<string name="haystack_help_description">
 A place to store (b)Straw(/b), rather than using residence or other storage structures, which wastes valuable space.
 	</string>
 	
-	<string name="storage_hut_short_description">A hut to store and preserve resources</string>
+	<string name="storage_hut_short_description">자원을 저장하는 오두막.</string>
 	<string name="storage_hut_help_description">
 A large construction made out of (b)Mud(/b) with a thatched (b)Straw(/b) roof, where resources can be stored and preserved for longer.
 It is more durable than a (b)Storage Tent(/b) and can store more resources for longer.
 Requires the (b)Thatching(/b) tech in order to be built.
 	</string>
 	
-	<string name="granary_short_description">A structure to preserve food</string>
+	<string name="granary_short_description">음식을 보존하는 시설물.</string>
 	<string name="granary_help_description">
 A raised hut, purpose built to keep food dry and preserved for (b)as long as possible(/b).  
 Granaries are reasonably durable, but they need repairing from time to time.
 Requires the (b)Thatching(/b) tech in order to be built.
 	</string>
 	
-	<string name="rock_pile_short_description">A place to store Flint, Stone or Ores</string>
+	<string name="rock_pile_short_description">부싯돌, 돌 또는 광물을 저장하는 장소.</string>
 	<string name="rock_pile_help_description">
 A place to store (b)Flint(/b), (b)Stone(/b) or (b)ores(/b), rather than using residence or other storage structures, which wastes valuable space.
 	</string>
 
-	<string name="warehouse_short_description">A stone house to store and preserve resources</string>
+	<string name="warehouse_short_description">자원을 저장하는 석조 집.</string>
 	<string name="warehouse_help_description">
 A large construction made out of (b)Stone(/b) with a thatched (b)Straw(/b) roof, where resources can be stored and preserved for longer.
 It is more durable than a (b)Storage Hut(/b) and can store more resources for longer.
@@ -425,29 +425,29 @@ Requires the (b)Masonry(/b) tech in order to be built.
 	
 	<!-- === Production === -->
 	
-	<string name="hearth_short_description">A place to cook, make bread and socialize</string>
+	<string name="hearth_short_description">요리하거나, 빵을 만들고 교제하는 곳.</string>
 	<string name="hearth_help_description">
 A common place where to cook food and make bread.
 	</string>	
 	
-	<string name="crafter_short_description">A place to create tools and clothing</string>
+	<string name="crafter_short_description">도구나 의복을 만드는 곳.</string>
 	<string name="crafter_help_description">
 The Crafter is the main production structure in the (b)Stone Age(/b).
 In it your people can create all the (b)tools(/b) and (b)clothing(/b) they will need in the early eras.
 It is a good idea to use (b)automated production(/b) (by right clicking on an item) and (b)resource limits(/b) in order to avoid to have to manually craft tools every time you need them.
 	</string>
 	
-	<string name="skins_dryer_short_description">A place to dry skins</string>
+	<string name="skins_dryer_short_description">가죽을 건조하는 곳.</string>
 	<string name="skins_dryer_help_description">
 A structure where your people will transform (b)Raw Skins(/b) into (b)Dry Skins(/b), that are more durable and usable.
 	</string>
 	
-	<string name="food_dryer_short_description">A place to dry food</string>
+	<string name="food_dryer_short_description">음식을 건조하는 곳.</string>
 	<string name="food_dryer_help_description">
 A structure where (b)Raw Meat(/b) and (b)Fish(/b) can be processed into (b)Cured Meat(/b) and (b)Dry Fish(/b).
 	</string>
 
-	<string name="mortar_short_description">A rock to crush Grain into Flour</string>
+	<string name="mortar_short_description">곡물을 가루로 분쇄하는 돌.</string>
 	<string name="mortar_help_description">
 A rock to crush (b)Grain(/b) into (b)Flour(/b). This is quite a labor intensive process. 
 	</string>
@@ -1194,116 +1194,116 @@ You can use (b)primal vision(/b) to identify them on the map, where they will sh
 
 	<!-- === TRANSPORTS (no categories) === -->
 
-	<string name="sledge_short_description">A basic human pulled transport</string>
+	<string name="sledge_short_description">인간에 의해 끌어지는 기본 운송수단</string>
 	<string name="sledge_help_description">
-The most basic form of transport, it allows one adult to move around (b)heavy resources(/b) with ease.
+가장 기본의 운송수단으로, 성인 한명이 (b)무거운 자원(/b)을 쉽게 움직일 수 있게 합니다.
 	</string>
 
-	<string name="cart_short_description">A wheeled transport pulled by animals</string>
+	<string name="cart_short_description">동물에 의해 끌어지는 바퀴달린 운송수단</string>
 	<string name="cart_help_description">
-Allows your people to move (b)large quantities(/b) of (b)heavy resources(/b) around.
-Carts are pulled by (b)Donkeys(/b) or (b)Horses(/b). When an animal is available, it will get attached to the transport automatically.
+사람들이 (b)대량(/b)의 (b)무거운 자원(/b)을 옮길 수 있게 합니다.
+(b)당나귀(/b) 또는 (b)말(/b)로 수레를 끕니다. 동물이 이용 가능하다면, 자동으로 운송수단에 부착됩니다.
 	</string>
 	
-	<string name="rolling_megalith_short_description">A specialized transport to move megaliths</string>
+	<string name="rolling_megalith_short_description">거석 운송에 특화된 운송수단</string>
 	<string name="rolling_megalith_help_description">
-To move (b)Megaliths(/b) around they are placed into rolling timbers, and then pulled by (b)several humans(/b).
+(b)거석(/b)을 움직이게 하기위해 굴림목을 놓고, (b)몇명의 인간(/b)이 옮깁니다.
 	</string>
 
 	<!-- === PLANTS === -->
-	<string name="help_related_techs">Related Techs</string>
+	<string name="help_related_techs">관련된 기술</string>
 
 	<string name="help_plants_description">
-Plants that grow in the wild are a great source of (b)resources(/b).
-Once you have the appropriate (b)techs(/b), you will be able to (b)plant(/b) some of them yourself.
+야생에서 자라는 식물은 (b)자원(/b)의 훌륭한 원천이다.
+당신이 적절한 (b)기술(/b)을 갖는다면, 그것들 중 일부를 직접 (b)심을 수 있다(/b).
 	</string>
 
-	<string name="help_plant_harvesting_season">Harvesting Season</string>
-	<string name="help_plant_planting_season">Planting Season</string>
-	<string name="help_plant_disease_resistance">Disease Resistance: (1)%</string>
-	<string name="help_plant_extra_production">(1)% chance of producing extra resource: (2)</string>
+	<string name="help_plant_harvesting_season">수확 계절</string>
+	<string name="help_plant_planting_season">심는 계절</string>
+	<string name="help_plant_disease_resistance">면역력: (1)%</string>
+	<string name="help_plant_extra_production">(1)% 확률로 추가 자원을 생산: (2)</string>
 
-	<string name="help_plant_type_cereals">Cereals</string>
-	<string name="help_plant_type_berries">Berries</string>
-	<string name="help_plant_type_pulses">Pulses</string>
-	<string name="help_plant_type_fruit_trees">Fruit Trees</string>
-	<string name="help_plant_type_other">Other</string>
+	<string name="help_plant_type_cereals">곡물</string>
+	<string name="help_plant_type_berries">열매류</string>
+	<string name="help_plant_type_pulses">콩류</string>
+	<string name="help_plant_type_fruit_trees">과일나무</string>
+	<string name="help_plant_type_other">기타</string>
 	
 	<string name="help_einkorn_description">
-A hardy cereal, (b)resistant(/b) against diseases.
+강인한 곡물로, 질병에 (b)면역력(/b)이 있습니다.
 	</string>
 
 	<string name="help_emmer_description">
-A high yield cereal, produces (b)extra Grain(/b).
+높은 수확량의 곡물로, (b)추가로 곡물(/b)을 생산합니다.
 	</string>
 
 	<string name="help_barley_description">
-A cereal that produces (b)extra Straw(/b).
+(b)추가로 밀짚(/b)을 생산하는 곡물입니다.
 	</string>
 	
 	<string name="help_flax_description">
-A plant that produces (b)Linen(/b).
+(b)리넨(/b)을 생산하는 식물.
 	</string>	
 
 	<string name="help_peas_description">
-A nutritious legume.
+영양이 풍부한 콩과 식물.
 	</string>	
 	
 	<string name="help_chickpeas_description">
-A nutritious legume.
+영양이 풍부한 콩과 식물.
 	</string>	
 	
 	<string name="help_lentils_description">
-A nutritious legume.
+영양이 풍부한 콩과 식물.
 	</string>	
 	
 	<string name="help_bitter_vetch_description">
-A nutritious legume.
-It can grow wild, but it can also be planted.
+영양이 풍부한 콩과 식물.
+야생으로 자라지만, 심을 수도 있습니다.
 	</string>
 	
 	<string name="help_strawberry_description">
-A wild collectable seasonal berry.
+야생 수집이 가능한 제철 베리.
 	</string>		
 	
 	<string name="help_blackberry_description">
-A wild collectable seasonal berry.
+야생 수집이 가능한 제철 베리.
 	</string>		
 	
 	<string name="help_blueberry_description">
-A wild collectable seasonal berry.
+야생 수집이 가능한 제철 베리.
 	</string>	
 	
 	<string name="help_raspberry_description">
-A wild collectable seasonal berry.
+야생 수집이 가능한 제철 베리.
 	</string>			
 	
 	<string name="help_chestnut_description">
-Produces nutritious chestnuts.
+영양이 풍부한 밤을 생산합니다.
 	</string>		
 	
 	<string name="help_pear_description">
-Produces nutritious fruit.
+영양이 풍부한 과일을 생산합니다.
 	</string>			
 	
 	<string name="help_service_description">
-Produces nutritious fruit.
+영양이 풍부한 과일을 생산합니다.
 	</string>		
 	
 	<string name="help_cherry_description">
-Produces nutritious fruit.
+영양이 풍부한 과일을 생산합니다.
 	</string>			
 
 	<string name="help_rye_description">
-An all round cereal, more (b)resistant(/b) than most, and produces a good amount of (b)Grain(/b).
+대부분의 곡물보다 (b)면역력(/b)이 강하며, 많은 양의 (b)곡물(/b)을 생산합니다.
 	</string>
 	
 	<string name="help_oak_description">
-(b)Tannin(/b), an essential ingredient for the manufacturing of (b)Leather(/b) can be obtained from the bark of this tree.
+(b)가죽(/b) 제조에 필수재료인 (b)탄닌(/b)은 이 나무에서 얻을 수 있습니다.
 	</string>	
 
 	<string name="help_fir_description">
-(b)Tannin(/b), an essential ingredient for the manufacturing of (b)Leather(/b) can be obtained from the bark of this tree.
+(b)가죽(/b) 제조에 필수재료인 (b)탄닌(/b)은 이 나무에서 얻을 수 있습니다.
 	</string>	
 	
 	
