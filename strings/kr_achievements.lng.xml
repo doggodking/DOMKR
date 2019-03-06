@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <strings>
 
 	<string name="achievement_completed">도전과제 완료: (1)</string>
 
-	<string name="achievement_launch_forth">여정의 시작</string>
+	<string name="achievement_launch_forth">출시</string>
 	<string name="achievement_launch_forth_description">게임을 시작하기</string>
 	
 	<string name="achievement_ancient_apprentice">고대 견습생</string>
 	<string name="achievement_ancient_apprentice_description">튜토리얼 완료</string>
 
 	<string name="achievement_ancient_miner">고대 광부</string>
-	<string name="achievement_ancient_miner_description">신석기 시대에 한번에 적어도 3개의 광산 채광</string>
+	<string name="achievement_ancient_miner_description">신석기 시대에 적어도 3개의 광산 채광</string>
 
 	<string name="achievement_massive_hunter">대형 사냥꾼</string>
 	<string name="achievement_massive_hunter_description">매머드를 사냥</string>
@@ -48,14 +48,14 @@
 	<string name="achievement_siege2">공방전</string>
 	<string name="achievement_siege2_description">'고대의 전사' 시나리오에서 강철 제조 기술 해제</string>
 
-	<string name="achievement_time">급격한 발전</string>
-	<string name="achievement_time_description">게임 시간 5시간 내 모든 기술 연구</string>
+	<string name="achievement_time">급격한 진화</string>
+	<string name="achievement_time_description">게임 시간 5시간 내 테크트리 모든 기술 연구</string>
 
 	<string name="achievement_overpopulation">인구 과잉</string>
-	<string name="achievement_overpopulation_description">정착지 인구 200명 달성</string>
+	<string name="achievement_overpopulation_description">정착지 인구 200명 도달</string>
 
 	<string name="achievement_paleolithic_overpopulation">구석기 시대 인구 과잉</string>
-	<string name="achievement_paleolithic_overpopulation_description">구석기 시대에서 정착지 인구 100명 달성</string>
+	<string name="achievement_paleolithic_overpopulation_description">구석기 시대에서 정착지 인구 100명 도달</string>
 
 
 </strings>
