@@ -7,7 +7,7 @@
 	-->
 	
 	<!-- Humans -->
-	<string name="human_primitive_human">원시 인간</string>
+	<string name="human_primitive_human">원시인</string>
 
 	<!-- Animals. These are used for young/adult/old and male/female animals, try to find a word that is generic enough in the language -->
 	<string name="animal_bear">곰</string>
@@ -69,7 +69,7 @@
 	<string name="structure_skull_pole">해골 장대</string>
 	<string name="structure_stables">마구간</string>
 	<string name="structure_weaver">방직소</string>
-	<string name="structure_outfitter">의복점</string>
+	<string name="structure_outfitter">재단소</string>
 	<string name="structure_well">우물</string>
 	<string name="structure_menhir">선돌</string>
 	<string name="structure_dolmen">고인돌</string>
