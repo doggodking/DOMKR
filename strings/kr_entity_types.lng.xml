@@ -7,7 +7,7 @@
 	-->
 	
 	<!-- Humans -->
-	<string name="human_primitive_human">원시인</string>
+	<string name="human_primitive_human">원시 인간</string>
 
 	<!-- Animals. These are used for young/adult/old and male/female animals, try to find a word that is generic enough in the language -->
 	<string name="animal_bear">곰</string>
@@ -69,7 +69,7 @@
 	<string name="structure_skull_pole">해골 장대</string>
 	<string name="structure_stables">마구간</string>
 	<string name="structure_weaver">방직소</string>
-	<string name="structure_outfitter">재단소</string>
+	<string name="structure_outfitter">의복점</string>
 	<string name="structure_well">우물</string>
 	<string name="structure_menhir">선돌</string>
 	<string name="structure_dolmen">고인돌</string>
@@ -96,7 +96,7 @@
 	<string name="resource_flint_axe">부싯돌 도끼</string>
 	<string name="resource_flint_pick">부싯돌 곡괭이</string>
 	<string name="resource_flint">부싯돌</string>
-	<string name="resource_sticks">막대기</string>
+	<string name="resource_sticks">나뭇가지</string>
 	<string name="resource_berries">열매</string>
 	<string name="resource_fruit">과일</string>
 	<string name="resource_nuts">견과</string>
@@ -126,8 +126,8 @@
 	<string name="resource_composite_bow">합성궁</string>
 	<string name="resource_straw">밀짚</string>
 	<string name="resource_mud">진흙</string>
-	<string name="resource_sling">슬링</string>
-	<string name="resource_tannin">타닌</string>
+	<string name="resource_sling">투석구</string>
+	<string name="resource_tannin">탄닌</string>
 	<string name="resource_copper_spear">구리 창</string>
 	<string name="resource_copper_axe">구리 도끼</string>
 	<string name="resource_bronze_spear">청동 창</string>
@@ -168,11 +168,11 @@
 	<string name="resource_megalith">거석</string>
 
 	<!-- Techs -->
-	<string name="tech_bone_tools">뼈 도구</string>
-	<string name="tech_composite_tools">합성 도구</string>
-	<string name="tech_thatching">이엉</string>
+	<string name="tech_bone_tools">뼈 도구 제작</string>
+	<string name="tech_composite_tools">합성 도구 제작</string>
+	<string name="tech_thatching">건초 지붕 기술</string>
 	<string name="tech_masonry">석조</string>
-	<string name="tech_stone_polishing">돌 연마 </string>
+	<string name="tech_stone_polishing">돌 연마</string>
 	<string name="tech_copper_smelting">구리 제련</string>
 	<string name="tech_bronze_smelting">청동 제련</string>
 	<string name="tech_iron_smelting">철 제련</string>
@@ -197,7 +197,7 @@
 	<string name="tech_horse_domestication">말 사육</string>
 	<string name="tech_tanning">무두질</string>
 	<string name="tech_weaving">엮기</string>
-	<string name="tech_sledgemaking">썰매제작</string>
+	<string name="tech_sledgemaking">썰매 제작</string>
 	<string name="tech_stilting">기둥</string>
 	<string name="tech_wheel">바퀴</string>
 	<string name="tech_spirituality">정신성</string>
@@ -206,7 +206,7 @@
 	<string name="tech_hydropower">수력발전</string>
 	<string name="tech_baking">제빵</string>
 
-	<string name="tech_slingmaking">슬링제작</string>
+	<string name="tech_slingmaking">투석구 제작</string>
 	<string name="tech_archery">궁술</string>
 	<string name="tech_fortifications">요새화</string>
 	<string name="tech_swordmaking">검제작</string>
@@ -241,7 +241,7 @@
 	<string name="tree_blueberry">블루베리</string>
 	<string name="tree_blackberry">블랙베리</string>
 
-	<string name="tree_einkorn">아인콘(밀)</string>
+	<string name="tree_einkorn">아인콘</string>
 	<string name="tree_emmer">에머밀</string>
 	<string name="tree_barley">보리</string>
 	<string name="tree_rye">호밀</string>
