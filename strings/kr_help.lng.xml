@@ -56,87 +56,87 @@
 
 	<string name="help_main_title">Dawn of Man</string>
 	<string name="help_main_description">
-In (b)Dawn of Man(/b) you guide a settlement of ancient humans in their struggle for survival.
-You will have to (b)hunt(/b), (b)gather(/b), (b)craft tools(/b), (b)fight(/b), research new (b)techs(/b) and face the challenges the environment will throw at you.
+(b)Dawn of Man(/b)에서, 당신에게 고대 인류, 생존을 위한 투쟁에서의 정착을 안내합니다.
+당신은 (b)사냥(/b), (b)수집(/b), (b)도구 제작(/b), (b)전투(/b), 새로운 (b)기술(/b) 연구 그리고 환경이 던진 도전에 직면해야 할 것입니다.
 </string>
 
   <!-- === Topics === -->
 
 	<string name="help_hunting_title">사냥</string>
 	<string name="help_hunting_description">
-Using specialized tools, your people can hunt animals in order to obtain (b)food(/b) and (b)resources(/b) from them.
-To start a hunt, select an animal in the environment and then click on the (b)hunt button(/b). Depending on the difficulty of the prey, and the availability of tools, a certain number of people will go after the animal.
-Animals will react in different ways when being hunted: some will try to (b)escape(/b), others will protect their offspring or will try to (b)retaliate(/b).
-You can control the hunt in more detail by selecting one or more adults and right clicking on a target animal.
+전문화된 도구를 사용하면, 사람들이 동물을 사냥해서 (b)음식(/b) 그리고 (b)자원(/b)을 얻을 수 있습니다.
+사냥을 시작하려면 환경에서 동물을 선택한 다음 (b)사냥 버튼(/b)을 클릭하십시오. 사냥감의 난이도와 도구의 가용성에 따라, 특정 수의 사람들이 동물을 추적할 것입니다. 
+동물들은 사냥할 때 각자 다른 방식으로 반응합니다. 어떤 동물은  (b)도망(/b)치려고 하며, 다른 동물은 새끼들을 보호하거나 (b)보복(/b)하려고 합니다.
+성인 한 명을 선택하고 대상 동물을 오른쪽 클릭하여 사냥을 보다 세부적으로 제어할 수 있습니다.
 	</string>	
 	
 	<string name="help_farming_title">농사</string>
 	<string name="help_farming_description">
-Farming allows you to automate the production of (b)food(/b), and sustain more people in your settlement.
-You can plant a variety of (b)crops(/b), then harvest and process them to feed your people. Crops are usually planted in winter or spring and collected in summer or autumn.
-It is important to plant a (b)variety(/b) of crops as diseases can easily wipe out all the individuals of a single species.
-In order to maximize the efficiency of the harvest, make sure you have enough (b)Sickles(/b) around.
-Of all crops, (b)cereals(/b) are probably the most important, they are not only a source of (b)Grain(/b) but also (b)Straw(/b), which is a vital resource both as a building material and also as animal food.
+농사는 (b)음식(/b) 생산을 자동화하고, 더 많은 사람들을 정착시키는 데 도움이 됩니다.
+다양한 (b)작물(/b)을 심고, 사람들에게 식량을 줄 수 있습니다. 작물은 보통 겨울이나 봄에 심어져 여름 또는 가을에 수확합니다.
+질병은 단일 종의 모든 개체를 단번에 휩쓸기 때문에 (b)다양한(/b) 농작물을 심는 것이 중요합니다.
+수확의 효율을 극대화하기 위해 주위에 충분한 (b)낫(/b)이 있는지 확인하세요.
+모든 작물 중 (b)곡물(/b)은 아마도 가장 중요한 자원인일 것인데, (b)곡식(/b)의 원재료일 뿐만 아니라 건축 자재와 동물 사료로서도 필수적인 자원인 (b)건초(/b)의 공급원이기도 합니다.
 	</string>
 			
 	<string name="help_defense_title">방어</string>
 	<string name="help_defense_description">
-One of the keys to survival is to defend your settlement against hostile (b)animals(/b) and (b)raiders(/b).
-During the (b)stone age(/b), the main threats are wild animals and sporadic bands of raiders. Make sure you have enough weapons and people to defend the settlement against them.
-In the (b)metal age(/b) things will get more serious, and large bands of attackers will try to destroy your settlement. It is highly recommended that you build (b)fortifications(/b) and (b)defensive structures(/b).
-At any time you can trigger an (b)alert(/b) in the defense panel, your people will then run back the settlement, get the best weapons available and man the towers.
+존의 열쇠 중 하나는 적대적인 (b)동물(/b)과 (b)침입자(/b)에 대한 당신의 정착지를 방어하는 것입니다.
+(b)석기 시대(/b) 동안 주요 위협은 야생 동물과 산발적인 침입자들의 무리입니다. 그들로부터 방어하기에 충분한 무기와 사람들이 있는지 확인하십시오.
+(b)금속기 시대(/b)에서는 상황이 더욱 심각해질 것이며, 공격자의 큰 무리가 당신의 정착지를 파괴하려고 할 것입니다. (b)요새화(/b)와 (b)수비 시설(/b)을 건설하는 것이 좋습니다.
+언제든 당신이 방어 패널에서 (b)경보(/b)를 발동한다면, 사람들을 정착지로 피난시키고 사용 가능한 최고의 무기를 손에 넣고 탑을 장악할 것입니다.
 	</string>	
 	
 	<string name="help_human_status_title">인간 상태</string>
 	<string name="help_human_status_description">
-Humans have (b)health(/b), (b)nutrition(/b), (b)hydration(/b), (b)rest(/b), (b)temperature(/b), (b)stamina(/b) and (b)morale(/b) indicators that reflect their current status.
-When an status indicator is low, a (b)warning sign(/b) will appear on top of that person, highlighting what's wrong with them.
-Having sub-optimal status will make your people less effective, and eventually cause them to die. You need to monitor your people at all times and make sure their needs are fulfilled.
+인간은 (b)건강(/b), (b)영양(/b), (b)수분(/b), (b)휴식(/b), (b)온도(/b), (b)기력(/b) 그리고 (b)사기(/b) 상태 게이지를 보여줍니다.
+상태 게이지가 낮을 때 그 사람 위에 (b)경고 표시(/b)가 나타나서 무엇이 잘못됐는지 부각시켜 줍니다.
+게이지가 낮으면 당신의 사람들의 작업 효율이 떨어지고 결국은 죽을 것입니다. 당신은 사람들의 인간 상태를 주시하고 그들의 요구가 충족되는지 확인할 필요가 있습니다.
 	</string>	
 	
 	<string name="help_health_title">건강</string>	
 	<string name="help_health_description">
-This is a measure of the physical health of a person. If it goes too low, the human will die.
-(b)Health(/b) slowly recovers by itself in normal circumstances, unless the other status indicators are low or the human is affected by a (b)condition(/b).
+이것은 사람의 신체 건강을 측정한 것입니다. 너무 낮게 되면 그 사람은 죽습니다.
+다른 상태 게이지가 낮거나 인간이 (b)질병(/b)에 걸리지 않는 한, 정상적인 상황에서는 (b)건강(/b)은 천천히 회복됩니다.
     </string>	
 	
 	<string name="help_nutrition_title">영양분</string>	
 	<string name="help_nutrition_description">
-This is a measure of how well fed a person is. If it goes too low, (b)health(/b) will start to drop, and the human will eventually die.
-(b)Nutrition(/b) can be recovered by eating food, which can be obtained from a variety of sources.
-    </string>		
+이것은 사람에게 얼마나 잘 먹고 있는지를 측정합니다. 이것이 떨어지게 되면, (b)건강(/b) 수차가 감소하기 시작하고 인간은 결국 죽을 것입니다.
+(b)영양(/b)은 다양한 출처에서 얻을 수 있는 음식을 섭취함으로써 회복될 수 있습니다.
+    </string>			
 	
 	<string name="help_hydration_title">수분</string>	
 	<string name="help_hydration_description">
-This is a measure of how thirsty a person is. If it goes too low, (b)health(/b) will start to drop, and the human will eventually die.
-(b)Hydration(/b) can be recovered by drinking from a (b)river(/b), (b)lake(/b), (b)well(/b), or (b)stored water(/b).
+이것은 사람이 얼마나 목이 마른지를 측정한 것입니다. 이것이 떨어지게 되면, (b)건강(/b) 수치가 감소하기 시작하고 인간은 결국 죽을 것입니다.
+(b)수분은(/b) (b)강(/b), (b)호수(/b), (b)우물(/b), 또는 (b)저장된 물(/b)을 마시는 것으로 회복할 수 있습니다.
     </string>	
 	
 	<string name="help_rest_title">피로</string>	
 	<string name="help_rest_description">
-This is a measure how tired a person is. If it goes low, humans will be less effective at work.
-(b)Rest(/b) can be recovered by sleeping in a (b)Tent(/b), (b)Hut(/b) or (b)Roundhouse(/b).
+이것은 사람이 얼마나 피곤한지를 측정합니다. 그것이 낮아지게 되면 인간은 작업의 효율이 떨어집니다.
+(b)휴식은(/b) (b)천막(/b), (b)오두막(/b) 또는 (b)원형집(/b)에서 자면 회복할 수 있습니다.
     </string>
 	
 	<string name="help_temperature_title">체온</string>	
 	<string name="help_temperature_description">
-This is a measure of the body temperature of a person. If it goes too low, (b)health(/b) will start to drop, and the human will eventually die.
-To warm themselves up, humans can wear thicker clothing or shelter inside a (b)Tent(/b), (b)Hut(/b) or (b)Roundhouse(/b).
-    </string>		
+이것은 사람의 체온을 의미합니다. 이것이 떨어지게 되면, (b)건강(/b) 수치가 감소하기 시작하고 인간은 결국 죽을 것입니다.
+따뜻해지려면 인간은 두꺼운 옷을 입거나 (b)천막(/b), (b)오두막(/b) 또는 (b)원형집(/b) 안에서 지내야 합니다.
+    </string>	
 	
 	<string name="help_stamina_title">기력</string>	
 	<string name="help_stamina_description">
-This is a measure of how out of breath a person is. if it goes too low, the human won't be able to run. It is an important factor in combat or when hunting.
-(b)Stamina(/b) recovers automatically when idle.
+이것은 사람이 얼마나 호흡할 수 있는지를 나타내는 척도입니다. 이것이 낮아지면 인간은 뛸 수 없습니다. 전투나 사냥을 할 때 중요한 요소입니다.
+(b)기력(/b)은 쉬고 있을 때 자동으로 회복됩니다.
     </string>		
 	
 	<string name="help_morale_title">사기</string>	
 	<string name="help_morale_description">
-This is a measure of the psychological health of a person. If morale goes low, they will be (b)less effective at work(/b). Keeping morale high is therefore critical to the success of your settlement.
-Morale can go down due to (b)hunger(/b), (b)deaths(/b), or performing (b)tedious tasks(/b), such as farming or carrying heavy loads.
-Morale is increased by visiting one of the morale recovering structures like the (b)Skull Pole(/b), (b)Totem(/b), (b)Menhir(/b), (b)Dolmen(/b) or (b)Stone Circle(/b). More advanced morale structures recover more morale. 
-A person has to wait a period of time before recovering again from the same type of structure, so it is important to build a variety of these.
-Later in the game you can also produce (b)Beer(/b), which recovers a lot of morale, but needs to be made from Grain. 
+이것은 사람의 심리적 건강을 의미합니다. 사기가 떨어지게 되면 (b)낮은 작업 효율(/b)을 보입니다. 따라서 의욕을 높게 유지하는 것이 정착지의 성공에 직결됩니다.
+(b)기아(/b), (b)죽음(/b), 또는  농사 또는 무거운 짐을 운반하는 것과 같은 (b)지루한 작업(/b)으로 사기가 내려갈 수 있습니다.
+사기는 (b)해골 장대(/b), (b)토템(/b), (b)선돌(/b), (b)고인돌(/b) 또는 (b)스톤 서클(/b)과 같은 시설물을 방문하면 사기가 증가합니다. 보다 발전된 시대의 이와 같은 사기를 올려주는 시설물은 더 많은 의욕을 회복합니다. 
+한 사람이 같은 종류의 시설물에서 다시 회복하기까지 일정 시간을 기다려야 하므로 이런 것들을 다양하게 건축하는 것이 중요합니다.
+게임 중반에 (b)맥주(/b)를 생산할 수 있는데, 많은 의욕을 회복하지만, 곡식부터 생산하여 만들 필요가 있습니다. 
 	</string>			
 	
   <string name="help_knowledge_title">지식</string>
@@ -154,39 +154,40 @@ Later in the game you can also produce (b)Beer(/b), which recovers a lot of mora
 	
 	<string name="help_crafting_title">제작</string>
   <string name="help_crafting_description">
-Your people can craft a variety of resources in the settlement's structures.
-To craft a resource, select a (b)crafting structure(/b) and click on a recipe. If the resources are available, one of your people will craft it.
-You can also right click on a recipe to toggle (b)continuous production(/b). When enabled your people will automatically produce the resource until the (b)resource limit(/b) is reached.
+당신의 사람들은 정착지의 시설물에서 다양한 자원을 제작할 수 있습니다.
+자원을 제작하려면 (b)공방/b) 시설물을 선택하고 레시피를 클릭합니다. 만약 자원이 확보된다면, 당신의 사람 중 한 명이 그것을 제작할 것입니다.
+조리법을 마우스 오른쪽 단추로 클릭하여 (b)연속 생산(/b)으로 전환할 수 있습니다. 활성화되면 (b)자원 한도(/b) 에 도달 할 때까지 자동으로 자원을 생산합니다.
   </string>
 	
 	<string name="help_expanding_title">확장</string>
   <string name="help_expanding_description">
+(b)행복(/b) 수치가 높고 정착할 여력이 충분하면, 새로운 사람이 와서 합류하고, 여자들이 새로운 아이를 (b)출산(/b)합니다.
+(b)천막(/b), (b)오두막(/b) 또는 (b)원형집(/b)을 건설하면 주택 가용인원을 늘릴 수 있습니다.
+이주자의 도착 빈도는 당신의 (b)행복(/b)과 (b)평판(/b)에 달려 있습니다.
+당신의 사람들의 출산율 또한 (b)행복(/b) 수준에 비례합니다.
 If your (b)welfare(/b) is high enough and you have enough capacity in your settlement, new people will come and join it, and your women will give (b)birth(/b) to new children.
-You can increase your housing capacity by building (b)Tents(/b), (b)Huts(/b) or (b)Roundhouses(/b).
-The frequency of migrant arrivals depends on your (b)welfare(/b) and (b)prestige(/b).
-The fertility of your people also depends on your (b)welfare(/b) level.
   </string>	
   
-  <string name="help_resource_limits_title">자원 제한</string>
+  <string name="help_resource_limits_title">자원 한도</string>
 	<string name="help_resource_limits_description">
-Resource Limits are a powerful way to automate work in your settlement.
-You can set a (b)resource limit(/b), then mark a recipe for continuous production or place a work area: your people will keep on collecting or producing that resource until the limit is reached. 
-When resources are consumed and the amounts fall below the limit again, your people will go back to work.
-You can set any limit to 3 types of values:
-(b)Infinity(/b). There's no limit to production, it will continue as long as there are materials available.
-(b)Fixed amount(/b). Sets a limit defined by a specific number of units. Production stops once the number of units of that particular resource reaches the value.
-(b)Population percentage(/b). Sets a limit defined by a percentage of the current population. Setting a percentage limit is useful to avoid having to constantly adjust the limits as the population changes.
-Note that limits only affect work areas and automatic crafting, if you explicitly give an order, the limit is ignored.
+자원 한도를 정착지의 자동화 작업을 통제하는데 필요한 방법입니다.
+(b)자원 한도(/b)를 설정한 다음, 연속적인 생산을 위한 레시피를 표시하거나 작업 영역을 배치할 수 있으며, 한계점에 도달할 때까지 해당 자원을 계속 수집하거나 생산할 수 있습니다. 
+자원을 소비하고 그 양이 다시 한도 이하로 떨어지면, 당신의 사람들은 다시 일터로 돌아갈 것입니다.
+다음과 같은 3가지 유형의 값으로 제한을 설정할 수 있습니다.
+• (b)무한(/b) : 이것은 생산에 제한이 없으며 가용한 재료가 있는 한 계속 됩니다.
+• (b)고정 수량(/b) : 특정 개수 단위로 정의한 한도를 설정합니다. 특정 자원의 단위 수가 값에 도달하면 생산이 중단됩니다.
+• (b)인구 비율(/b) : 현재의 인구수의 백분율로 정의된 한도를 설정합니다. 백분율 제한을 설정하는 것은 인구 변화에 따라 한도를 지속적으로 조정하지 않아도 되는 데 유용합니다.
+한도는 작업 영역 및 자동 제작에만 해당되므로, 직접 지시한 경우에는 한계를 무시하고 작업합니다.
 	</string>
 	
   <string name="help_resource_decay_title">자원 부패</string>
   <string name="help_resource_decay_description">
-Most resources and tools (b)decay(/b) over time, decay is also accelerated when tools are used.
-Resources stored inside a structure, decay slowly. This is especially important for food, as it can mean the difference between having a good winter or massive starvation.
-Some foods (b)decay very quickly(/b) like: Fruit, Berries or Raw Meat and Raw Fish.
-Some foods (b)last a lot longer(/b) like: Grain, Cured Meat and Dry Fish.
-Your people will try to eat the food that is going to decay sooner in order to preserve more durable food for later.
-	</string>	
+대부분의 자원과 도구는 시간이 지남에 따라 (b)부패(/b)되며, 도구를 사용할 때마다 부패도 가속화 됩니다 .
+자원들은 구조물 안에 저장되고, 천천히 부패됩니다. 특히 음식은 이 문제에 있어 중요합니다. 겨울을 안전하게 보내느냐 아니면 집단 아사하느냐의 차이가 이를 의미하기 때문입니다.
+과일, 베리류 또는 생 고기와 생선 같은 음식들은 (b)아주 빠른 부패(/b)가 진행됩니다. 
+곡식, 말린 고기, 건어물과 같은 음식은 (b)아주 느리게(/b) 진행됩니다.
+사람들은 더 오래가는 음식을 계속 보존하고, 부패가 빨리 진행되는 음식부터 먹으려고 노력합니다.
+	</string>
 	
   <string name="help_workload_title">작업량</string>
   <string name="help_workload_description">
