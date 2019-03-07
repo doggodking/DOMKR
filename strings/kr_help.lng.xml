@@ -191,18 +191,18 @@ If your (b)welfare(/b) is high enough and you have enough capacity in your settl
 	
   <string name="help_workload_title">작업량</string>
   <string name="help_workload_description">
-The (b)workload(/b) of your settlement is the ratio between the amount of tasks your people are trying to do, and the total amount of people.
-If you ask your people to do too many things at once, they will be overworked, and will have trouble prioritizing the right tasks.
-It is your job do make sure the amount of work to do is reasonable and proportional to the manpower available.
-You can use the (b)tasks(/b) and (b)activity panels(/b) to see what your people are up to and how many of them are available to work.
+정착지의 (b)작업량(/b)은 사람들이 하는 일의 양과 전체 인원의 비율을 말합니다.
+사람들에게 한꺼번에 너무 많은 일을 요구하면, 그들은 과로하게 되어 우선 순위를 매기는데 어려움을 겪습니다. 
+당신은 작업량과 여분 인력의 비례가 적절하게 유지할 책임이 있습니다.
+(b)작업 패널(/b)과 (b)활동 패널(/b)에서 사람들이 무얼하는 지, 일할 수 있는 사람들이 더 있는지 볼 수 있습니다.
 	</string>
 	
   <string name="help_human_roles_title">인간 역할</string>
   <string name="help_human_roles_description">
-Depending on the age of your population they are able to perform different tasks:
-(b)Children(/b). They can carry light resources around, one at a time, and do basic tasks that don't involve the usage of tools.
-(b)Adults(/b). They are the most efficient of your people, they can carry a larger number of resources and perform any task.
-(b)Elderly(/b). They can perform the same tasks as adults, but have less health and can carry less resources.
+주민의 연령에 따라 다른, 수행 가능한 작업 :
+(b)어린이(/b). 이들은 한 번에 하나씩 가벼운 자원을 운반할 수 있고, 도구 사용를 사용하지 않는 기초적인 작업을 할 수 있습니다. 
+(b)성인(/b). 이들은 연령 중 가장 유능하며, 더 많은 자원을 운반하고 어떠한 작업도 수행할 수 있습니다.
+(b)노인(/b). 이들은 성인과 동일한 작업을 수행할 수 있지만, 건강 수치가 낮고 자원을 더 적게 운반합니다.
 	</string>
   
   <string name="help_work_area_title">작업 영역</string>
