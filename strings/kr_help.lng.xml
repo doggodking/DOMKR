@@ -453,48 +453,48 @@ A structure where (b)Raw Meat(/b) and (b)Fish(/b) can be processed into (b)Cured
 A rock to crush (b)Grain(/b) into (b)Flour(/b). This is quite a labor intensive process. 
 	</string>
 	
-	<string name="tanner_short_description">A place to make Leather from Raw Skins</string>
+	<string name="tanner_short_description">생가죽을 가죽으로 만드는 곳.</string>
 	<string name="tanner_help_description">
 A place where (b)Raw Skins(/b) can be treated with (b)Tannin(/b) in order to make (b)Leather(/b).
 	</string>
 
-	<string name="well_short_description">A hole in the ground to extract water</string>
+	<string name="well_short_description">땅을 파서 물을 긷는 구멍 시설물.</string>
 	<string name="well_help_description">
 Wells provide settlements with a steady source of (b)Water(/b), they can be placed within the settlement's walls in order to avoid people having to go to the nearest river or lake.
 	</string>
 	
-	<string name="flint_mine_short_description">An underground structure to increase Flint extraction</string>
+	<string name="flint_mine_short_description">부싯돌 채광을 늘리기 위한 지하 시설물.</string>
 	<string name="flint_mine_help_description">
 (b)Increases(/b) the amount of (b)Flint(/b) that can be extracted from a deposit.
 	</string>
 	
-	<string name="weaver_short_description">A place to make cloth</string>
+	<string name="weaver_short_description">옷감을 만드는 곳.</string>
 	<string name="weaver_help_description">
 A place where (b)Linen(/b) and (b)Wool(/b) are woven to create cloth, that can then be used to make outfits.
 	</string>
 
-	<string name="outfitter_short_description">A place to create clothing</string>
+	<string name="outfitter_short_description">의복을 만드는 곳.</string>
 	<string name="outfitter_help_description">
 A place where outfits are made from (b)Linen Cloth(/b) and (b)Wool Cloth(/b).
 	</string>	
 
-	<string name="brewery_short_description">A place to brew Beer</string>
+	<string name="brewery_short_description">맥주를 양조하는 곳.</string>
 	<string name="brewery_help_description">
 A facility where your people can make (b)Beer(/b) from (b)Grain(/b) and (b)Water(/b).
 (b)Beer(/b) increases morale in your settlement.
 	</string>
 
-	<string name="watermill_short_description">A place to crush grain using hydropower</string>
+	<string name="watermill_short_description">수력발전을 이용하여 곡물을 가루로 만드는 곳.</string>
 	<string name="watermill_help_description">
 A place where to efficiently crush large quantities of (b)Grain(/b) into (b)Flour(/b) using hydropower.
 	</string>
 
-	<string name="oven_short_description">A communal oven to bake Bread in large quantities</string>
+	<string name="oven_short_description">많은 양의 빵을 구울 수 있는 공동 화덕.</string>
 	<string name="oven_help_description">
 A place where to efficiently bake large quantities of (b)Bread(/b).
 	</string>
 	
-	<string name="workshop_short_description">A place to make miscellaneous tools</string>
+	<string name="workshop_short_description">여러 종류의 도구를 만드는 곳.</string>
 	<string name="workshop_help_description">
 A place to make tools from the (b)Copper Age(/b) onwards.
 This structure in combination with the (b)Metalsmith(/b) or (b)Blacksmith(/b) serves as replacement for the (b)Crafter(/b).
@@ -1141,56 +1141,56 @@ Note that your people will automatically (b)slaughter(/b) any domestic animals t
 	</string>
 	
 	<string name="help_wild_animals_description">
-Wild animals inhabit the land and for the most part (b)avoid humans(/b).
-Predators will pose a threat if they are (b)very hungry(/b), or if they feel (b)threatened(/b).
+야생동물은 땅에서 서식하며 대부분 (b)인간(/b)을 피합니다.
+포식자들은 (b)매우 배고프거나(/b) (b)위협을 느끼면(/b) 위협을 가할 것입니다.
 	</string>
   
   <!-- === Animals === -->
   
 	<string name="dog_help_description">
-(b)Dogs(/b) are the first domestic animals to show up in your settlement. They are excellent (b)guards(/b) and will help you fight any intruders.
-Once the (b)Dog Domestication(/b) tech is researched, dogs will keep on coming to the village at a steady rate, depending on your population.
-They eat the leftovers from the humans, so they don't require to be fed or given shelter.
+(b)개(/b)는 당신의 정착지에 나타난 최초의 동물입니다. 그들은 훌륭한 (b)경비원(/b)이고, 당신을 도와 어떠한 침입자와도 싸울 것입니다.
+일단 (b)개 사육(/b) 기술이 연구되면, 당신의 인구수에 따라 일정한 비율로 마을에 올 것입니다.
+그들은 인간의 남은 음식을 먹기 때문에, 그들에게 먹이나 은신처는 필요없습니다.
 	</string>
 	
 	<string name="goat_help_description">
-(b)Goats(/b) produce (b)Milk(/b) and can also be slaughtered to obtain meat and skins.
+(b)염소(/b)는 (b)우유(/b)를 생산하고, 도축해서 고기와 가죽을 얻을 수 있습니다.
 	</string>	
 	
 	<string name="sheep_help_description">
-(b)Sheep(/b) produce (b)Wool(/b) and can also be slaughtered to obtain meat and skins.
+(b)양(/b)은 (b)양모(/b)를 생산하고, 도축해서 고기와 가죽을 얻을 수 있습니다.
 	</string>		
 	
 	<string name="pig_help_description">
-(b)Pigs(/b) are primarily a source of meat.
+(b)돼지(/b)는 주된 고기 공급원입니다.
 	</string>	
 	
 	<string name="cattle_help_description">
-(b)Cattle(/b) produce (b)Milk(/b) and can also be slaughtered to obtain meat and skins.
+(b)소(/b)는 (b)우유(/b)를 생산하고, 도축해서 고기와 가죽을 얻을 수 있습니다.
 	</string>		
 	
 	<string name="donkey_help_description">
-(b)Donkeys(/b) are used primarily to pull (b)Carts(/b), but they can also be slaughtered to obtain meat.
+(b)당나귀(/b)는 주로 (b)수레(/b)를 끌기위해 사용되고, 도축해서 고기를 얻을 수 있습니다.
 	</string>		
 	
 	<string name="horse_help_description">
-(b)Horses(/b) are used primarily to pull (b)Carts(/b), but they can also be slaughtered to obtain meat.
+(b)말(/b)은 주로 (b)수레(/b)를 끌기위해 사용되고, 도축해서 고기를 얻을 수 있습니다.
 	</string>			
 	
 	<string name="herbivore_help_description">
-Herbivores roam the land and feed from grass. They are one of the primary sources of (b)Meat(/b), (b)Raw Skins(/b) and (b)Bones(/b).
-Healthy (b)adults(/b) are faster and (b)tougher(/b), so they require better tools or more hunters to be dealt with effectively.
-You can identify the easier prey using (b)primal vision(/b) or by clicking on individuals.
+초식동물들은 육지를 돌아다니며 풀을 뜯어먹습니다. 그들은 (b)고기(/b), (b)생가죽(/b) 그리고 (b)뼈(/b)의 주요 공급원 중 하나입니다.
+건강한 (b)성체(/b)는 더 (b)빠르고(/b) (b)강력(/b)합니다. 그러므로 당신은 효율적으로 대처하기 위해 (b)더 좋은 도구(/b)나 (b)더 많은 사냥꾼(/b)이 필요합니다.
+당신은 (b)원시 비전(/b)이나 직접 클릭해서 쉬운 먹잇감을 찾을 수 있습니다.
 	</string>	
 	
 	<string name="large_herbivore_help_description">
-Large herbivores will provide your people with large amounts of vital (b)resources(/b).
-However they are used to defending themselves against predators, and (b)might retaliate(/b) if attacked. Approach them with care.
+큰 초식동물은 사람들에게 많은 양의 중요한 (b)자원(/b)을 제공할 것입니다.
+그러나 그들은 포식자들로부터 스스로를 지키는데 익숙하고, 공격을 당한다면 (b)보복(/b) 할지도 모릅니다. 조심해서 그들에게 접근하십시오.
 	</string>		
 	
 	<string name="predator_help_description">
-Predators are animals that naturally prey on others. For the most part they will leave humans alone, unless hungry or provoked.
-You can use (b)primal vision(/b) to identify them on the map, where they will show highlighted in orange or red.
+포식자들이 다른 동물을 먹는 것은 자연스럽습니다. 배가 고프거나 자극받지 않는 한 인간을 내버려둘 것입니다.
+당신은 (b)원시 비전(/b)을 사용하여 주황색이나 빨강색으로 강조된 것을 맵에서 확인할 수 있습니다.
 	</string>
 
 	<!-- === TRANSPORTS (no categories) === -->
