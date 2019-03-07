@@ -207,9 +207,9 @@ If your (b)welfare(/b) is high enough and you have enough capacity in your settl
   
   <string name="help_work_area_title">작업 영역</string>
   <string name="help_work_area_description">
-Setting (b)work areas(/b) allows you to automate many of the (b)collection(/b) and (b)mining(/b) tasks in your settlement.
-After you place an area for a given resource, people will keep collecting the resource within that area until the (b)resource limit(/b) is reached.
-By default only one person at a time will work in a particular area, but you can increase their number in the selection panel.
+(b)작업 영역(/b)을 설정하면 정착지에서 (b)수집(/b)과 (b)채광(/b) 작업을 자동화할 수 있습니다.
+주어진 자원에 대한 역영을 배치한 후, 사람들은 (b)자원 제한(/b)에 도달할 때까지 해당 영역 내에서 자원을 수집합니다. 
+기본적으로 한 번에 한 사람만 해당 영역에서 작업하지만, 선택 패널에서 작업자 수를 늘릴 수 있습니다. 
   </string>
 	
   <string name="help_foods_title">음식</string>
